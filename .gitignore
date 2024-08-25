@@ -1,0 +1,32 @@
+# .NET Core / .NET 5+ build artifacts
+bin/
+obj/
+
+# ASP.NET Core
+wwwroot/
+*.db
+*.sqlite
+*.pdb
+*.cache
+*.dmp
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Environment files
+*.env
